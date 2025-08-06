@@ -1,0 +1,13 @@
+{
+  "name": "backend-catalogocafe",
+  "version": "1.0.0",
+  "description": "Backend de catalogo de productos de cafeteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Acosta C",
+  "license": "MIT",
+  "type": "module"
+}
